@@ -14,7 +14,7 @@ Rental prices in the Guadalajara Metropolitan Area vary significantly across mun
 
 Through exploratory data analysis (EDA), this study aims to examine price distributions, correlations, and outliers to uncover trends in the rental market. Identifying these patterns can provide a clearer picture of how rental prices behave across different locations.
 
-### Stakeholders
+### Stakeholders
 
 Real estate investors and tenants looking to understand the rental market dynamics in these municipalities to price properties more accurately, improve leasing strategies, and advise clients on potential rent prices based on data-driven analysis.
 
