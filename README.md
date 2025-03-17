@@ -51,7 +51,7 @@ This project was conducted using **R**, leveraging its robust capabilities in da
 
 ---
 
-## 📈 Conclusion & Next Steps  
+## 📈 Next Steps  
 This analysis provides a **data-driven approach to understanding rental pricing trends** in the Guadalajara Metropolitan Area.  
 
 🔹 **Future Work:**  
@@ -61,4 +61,9 @@ This analysis provides a **data-driven approach to understanding rental pricing 
 
 ---
 
-## 📫 Contac
+## 📫 Contact
+
+If you're interested in this project or have any questions, feel free to reach out!  
+
+📧 Email: yanelirg@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/ethelrios/
