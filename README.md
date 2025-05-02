@@ -29,12 +29,12 @@ By analyzing factors like **property size, number of rooms, and location**, this
 
 This project was conducted using **R**, leveraging its robust capabilities in data cleaning, statistical analysis, and visualization.  
 
-### **1️⃣ Data Preparation & Cleaning**  
+### **1. Data Preparation & Cleaning**  
 ✔ Standardized column names (lowercase, underscores).  
 ✔ Converted data types (e.g., numerical for price, area).  
 ✔ Identified and handled missing values, duplicates, and unrealistic values (e.g., extreme prices).  
 
-### **2️⃣ Exploratory Data Analysis (EDA) & Insights Generation**  
+### **2. Exploratory Data Analysis (EDA) & Insights Generation**  
 **Visualizations**: Histograms, boxplots, scatter plots, and bar charts to analyze price distribution and trends.  
 **Summary Statistics**: Mean, median, min-max values for price, area, rooms, and bathrooms.  
 **Correlation Analysis**: Evaluated the relationship between **price, area (m²), and number of rooms**.  
@@ -43,18 +43,18 @@ This project was conducted using **R**, leveraging its robust capabilities in da
 
 ---
 
-## 🏆 Technical Skills Demonstrated  
-✅ **R** – Data wrangling (`dplyr`, `tidyverse`), visualization (`ggplot2`)  
-✅ **EDA & Statistics** – Correlation, ANOVA, outlier detection  
-✅ **Data Cleaning & Preprocessing** – Handling missing values, formatting datasets  
-✅ **Business & Market Analysis** – Real estate trends and pricing strategy  
+## Technical Skills Demonstrated  
+- **R** – Data wrangling (`dplyr`, `tidyverse`), visualization (`ggplot2`)
+- **EDA & Statistics** – Correlation, ANOVA, outlier detection
+- **Data Cleaning & Preprocessing** – Handling missing values, formatting datasets
+- **Business & Market Analysis** – Real estate trends and pricing strategy  
 
 ---
 
-## 📈 Next Steps  
+## Next Steps  
 This analysis provides a **data-driven approach to understanding rental pricing trends** in the Guadalajara Metropolitan Area.  
 
-🔹 **Future Work:**  
+**Future Work:**  
 - **Expanding the dataset** to improve representation in Tlajomulco and Tonalá.  
 - **Developing predictive models** to estimate rental prices based on property attributes.  
 - **Comparing rental prices over time** to identify market shifts.  
